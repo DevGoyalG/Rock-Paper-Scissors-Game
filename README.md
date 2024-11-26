@@ -17,7 +17,7 @@ Check out the live demo of the Rock Paper Scissors Game [here](https://rock-pape
 ## 📸 Project Preview
 Here's a sneak peek of the Rock Paper Scissors Game:
 
-![Project Preview](assets/Palindrome-Checker.png)
+![Project Preview](assets/Rock-Paper-Scissors.png)
 
 ## 🚀 Features
 - Allows you to play Rock, Paper, Scissors against the computer.
